@@ -226,10 +226,6 @@ body{
     padding: 0px;
 }
 
-.onPress{
-    margin-left: 100%;
-    /* transition: 1s; */
-}
 .pressed {
     display: block;
     background-color: rgb(13, 51, 22);
